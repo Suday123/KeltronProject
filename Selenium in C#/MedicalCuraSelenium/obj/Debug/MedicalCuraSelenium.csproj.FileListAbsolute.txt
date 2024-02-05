@@ -1,0 +1,15 @@
+D:\Works\MedicalCuraSelenium\bin\Debug\selenium-manager\linux\selenium-manager
+D:\Works\MedicalCuraSelenium\bin\Debug\selenium-manager\macos\selenium-manager
+D:\Works\MedicalCuraSelenium\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\Works\MedicalCuraSelenium\bin\Debug\MedicalCuraSelenium.exe.config
+D:\Works\MedicalCuraSelenium\bin\Debug\MedicalCuraSelenium.exe
+D:\Works\MedicalCuraSelenium\bin\Debug\MedicalCuraSelenium.pdb
+D:\Works\MedicalCuraSelenium\bin\Debug\Newtonsoft.Json.dll
+D:\Works\MedicalCuraSelenium\bin\Debug\WebDriver.dll
+D:\Works\MedicalCuraSelenium\bin\Debug\Newtonsoft.Json.xml
+D:\Works\MedicalCuraSelenium\bin\Debug\WebDriver.xml
+D:\Works\MedicalCuraSelenium\obj\Debug\MedicalCuraSelenium.csproj.AssemblyReference.cache
+D:\Works\MedicalCuraSelenium\obj\Debug\MedicalCuraSelenium.csproj.CoreCompileInputs.cache
+D:\Works\MedicalCuraSelenium\obj\Debug\MedicalCuraSelenium.csproj.CopyComplete
+D:\Works\MedicalCuraSelenium\obj\Debug\MedicalCuraSelenium.exe
+D:\Works\MedicalCuraSelenium\obj\Debug\MedicalCuraSelenium.pdb
